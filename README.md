@@ -1,5 +1,6 @@
 <h1> Hi There 👋, Myself Asifur Arif </h1>
-![I am web app developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/339525045_598641301933722_2382238907060579818_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHdyiJ-Lhfiq_Y_Lf-CAyuAlFe_7knsUDOUV7_uSexQM47GtIew64k0eUjZJaNbW3PgYuhdzGxLll0vOgEYPB1S&_nc_ohc=EnH-SJxvxFQAX8nnRnr&_nc_ht=scontent.fdac14-1.fna&oh=00_AfCp-N7UpmUSk4bQUp-aM1NLQnGoSimBYLOG9LYjew4EMw&oe=64546EB9)
+
+(https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/339525045_598641301933722_2382238907060579818_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHdyiJ-Lhfiq_Y_Lf-CAyuAlFe_7knsUDOUV7_uSexQM47GtIew64k0eUjZJaNbW3PgYuhdzGxLll0vOgEYPB1S&_nc_ohc=EnH-SJxvxFQAX8nnRnr&_nc_ht=scontent.fdac14-1.fna&oh=00_AfCp-N7UpmUSk4bQUp-aM1NLQnGoSimBYLOG9LYjew4EMw&oe=64546EB9)
 
 <h2>Full Stack Developer</h2>
 <p>
@@ -16,7 +17,7 @@ expand my learning and builds upon my developer skills.
 - Looking to work as a software developer.
 - Currently learning Flutter development with dart.
 - Ask me about anything related to software development.
-- See my portfolio at **[nabilnewaz.com](https://www.nabilnewaz.com)**.
+- See my portfolio at **[nabilnewaz.com](https://arif.epizy.com)**.
 - My mail address **[arifcmt41@gmail.com](mailto:arifcmt41@gmail.com)**.
 - Fun fact: I can work straight 12 hours everyday if its about coding :3
 
