@@ -43,6 +43,9 @@ Skills: PHP/ REACT / JS / HTML / CSS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asifurarif41&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifurarif41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+https://github-stats-alpha.vercel.app/api?username={asifurarif41}&cc=000&tc=fff&ic=fff&bc=000
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=asifurarif41&icon=0&color=0)](https://visitcount.itsvg.in)
 
