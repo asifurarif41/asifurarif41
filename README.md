@@ -1,52 +1,100 @@
-### Hi there 👋, my name is Asifur Arif
-#### I am web app developer
+<h1> Hi There 👋, Myself Asifur Arif </h1>
 ![I am web app developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/339525045_598641301933722_2382238907060579818_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHdyiJ-Lhfiq_Y_Lf-CAyuAlFe_7knsUDOUV7_uSexQM47GtIew64k0eUjZJaNbW3PgYuhdzGxLll0vOgEYPB1S&_nc_ohc=EnH-SJxvxFQAX8nnRnr&_nc_ht=scontent.fdac14-1.fna&oh=00_AfCp-N7UpmUSk4bQUp-aM1NLQnGoSimBYLOG9LYjew4EMw&oe=64546EB9)
 
-### I Am Web App Developer
-I am a Full-Stack Web Developer from Bangladesh. My expertise includes PHP, JavaScript, React.js, Node.js, MySQL & MongoDB. I have about one year of work experience learning and working on various projects and the ability to work in a team with strong communication skills. Additionally, I like to contribute on Graphics Design, UI/UX Design, Android Development And Other IT Sectors.
+<h2>Full Stack Developer</h2>
+<p>
+Hard-working web developer with a flair for creating elegant solutions in the least amount of time. With a proven
+ability to adapt to both self-starting and collaborative environments while staying focused on achieving high-
+quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will
+expand my learning and builds upon my developer skills.
+</p>
 
-Skills: PHP/ REACT / JS / HTML / CSS
+### Who I Am?
 
-- 🔭 I’m currently working on www.fiverr.com 
-- 🌱 I’m currently learning python 
-- 💬 Ask me about contact us 
-- 📫 How to reach me: Chatting 
+- A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
+- Working as **Full Stack Developer**.
+- Looking to work as a software developer.
+- Currently learning Flutter development with dart.
+- Ask me about anything related to software development.
+- See my portfolio at **[nabilnewaz.com](https://www.nabilnewaz.com)**.
+- My mail address **[arifcmt41@gmail.com](mailto:arifcmt41@gmail.com)**.
+- Fun fact: I can work straight 12 hours everyday if its about coding :3
 
+### What I'm Doing?
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Writing `JavaScript`, `React,js`, `Node.js`, `Express.js`, `PHP`, `MySQL`.
+- Contributing to Open Source and Personal Projects.
+- Mostly active on **[LinkedIn](https://www.linkedin.com/in/asifur-arif-009476270/)** and **[Twitter](https://twitter.com/arifcmt41)**.
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/asifurarif41" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/arifcmt41" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/asifur-arif-009476270/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/arifprofile.fb" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/arifcmt41" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/@priotune" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
+### What Are My Skill Sets?
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asifurarif41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asifurarif41&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifurarif41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### Tech Stack
+![C](https://img.shields.io/badge/C-00599C?&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?&logo=react-router&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?&logo=json-web-tokens&logoColor=pink)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
+![MOngoDB](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white)
+![Vercel](	https://img.shields.io/badge/Vercel-000000?&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?&logo=Cloudflare&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?&logo=elementor&logoColor=white)
 
-https://github-stats-alpha.vercel.app/api?username={asifurarif41}&cc=000&tc=fff&ic=fff&bc=000
+#### IDE Expertise
 
+![Atom](https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?&logo=googlecolab&color=525252) 
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2B%2B&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&&logo=PyCharm&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-667881?&logo=replit&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?&logo=RStudio&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?&logo=spyder%20ide&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&&logo=sublime-text&logoColor=important)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?&logo=Xcode&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=asifurarif41&icon=0&color=0)](https://visitcount.itsvg.in)
+#### Office Applications
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?&logo=google-sheets&logoColor=white)
+![Excell](https://img.shields.io/badge/Microsoft_Excel-217346?&logo=microsoft-excel&logoColor=white)
+![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?&logo=microsoft-office&logoColor=white)
+![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?&logo=microsoft-powerpoint&logoColor=white)
+![Share Point](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?&logo=microsoft-sharepoint&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?&logo=microsoft-word&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F7C922?&logo=Miro&logoColor=050036)
+![Notion](https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white)
+![OverLeaf](https://img.shields.io/badge/Overleaf-47A141?&logo=Overleaf&logoColor=white)
+![ToDoist](https://img.shields.io/badge/Todoist-E44332?&logo=todoist&logoColor=white)
+
+### How To Reach Me?
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifur-arif-009476270/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/arifcmt41)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white)](https://www.facebook.com/arifprofile.fb)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arifasifur/) 
+
+### GitHub Stats
+
+![Nabil's Stats](https://github-readme-stats.vercel.app/api?username=asifurarif41&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![Nabil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asifurarif41&theme=gruvbox&hide_border=true)
+![Nabil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifurarif41&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&card_width=445px)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+ 
