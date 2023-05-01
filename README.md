@@ -1,8 +1,5 @@
 <h1> Hi There 👋, Myself Asifur Arif </h1>
-
 <img src="./4a1a6ac4b81b45b8855763e873d75834-0001.jpg" alt="Alt text" title="Optional title">
-<h2>Full Stack Developer</h2>
-
 <h2>Full Stack Developer</h2>
 <p>
 Hard-working web developer with a flair for creating elegant solutions in the least amount of time. With a proven
